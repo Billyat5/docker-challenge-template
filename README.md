@@ -41,6 +41,7 @@ Successfully accessed the static webpage served by the Docker container. Below a
 This challenge provided a practical introduction to Docker, teaching me how to build an image, run a container, and serve static content using Nginx. I am looking forward to applying these skills in future projects and exploring more advanced Docker functionalities.
 
 
+
 # Docker Challenge 2 Report
 
 ## Introduction
